@@ -1,2 +1,7 @@
-# AngularwithES6
-angular starter with ES6, Gulp, Babel, common footer and header
+# Conduit AngularJS Starter
+
+1. Clone repo
+2. `npm install`
+3. `gulp`
+
+Make sure you have gulp installed globally (`npm install -g gulp`)
